@@ -1,8 +1,6 @@
 package com.diego.model;
-
 import com.diego.services.ReceiptService;
 import com.diego.interfaces.ReceiptDbRepository;
-
 import java.math.BigDecimal;
 
 public class ReceiptDbSaver {
