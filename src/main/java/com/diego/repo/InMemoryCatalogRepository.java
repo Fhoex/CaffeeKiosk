@@ -1,7 +1,6 @@
 package com.diego.repo;
 import com.diego.interfaces.CatalogRepository;
-import com.diego.model.Category;
-import com.diego.model.MenuItem;
+import com.diego.model.*;
 import java.math.BigDecimal;
 import java.util.List;
 

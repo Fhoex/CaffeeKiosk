@@ -1,7 +1,7 @@
 package com.diego.interfaces;
 import com.diego.model.MenuItem;
-import java.util.List;
 import com.diego.model.Category;
+import java.util.List;
 
 public interface CatalogRepository {
     List<MenuItem> all();
